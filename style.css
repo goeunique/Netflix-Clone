@@ -1,0 +1,233 @@
+.showcase{
+    background-image: url("netflix\ background\ img.png");
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-position: 30% 30%;
+    height: 650px;
+    margin-top: -20px;
+    margin-left: -10px;
+    margin-right: -8px;
+    border-bottom: 2px solid gray;
+}
+.showcase-top{
+    display: flex;
+    margin-left: 30px;
+    padding-top: 30px;
+}
+.signup-btn-link{
+    background-color: red;
+    height: 30px;
+    width: 70px;
+    border: none;
+    border-radius: 1px;
+    margin-left: 1300px;
+}
+.signup-btn-link a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+.showcase-content{
+    color:white;
+    text-align: center;
+    margin-top: 150px;
+}
+.showcase-content-heading{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+}
+.showcase-content-paragraph1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: -25px;
+    margin-bottom: 25px;
+    font-size: 23px;
+}
+.showcase-content-paragraph2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+.showcase-btn{
+    margin-top: 20px;
+    margin-left: 400px;
+}
+.email{
+    height: 58px;
+    width: 650px;
+    border: 1px solid gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 10px;
+}
+.btn{
+    height: 58px;
+    width: 200px;
+    background-color: red;
+    margin-left: -70px;
+    border: none;
+    color: white;
+    font-size: 25px;
+    padding-bottom: 8px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.main-container-content{
+    background-color: black;
+    border-bottom: 2px solid gray;
+    margin-left: -10px;
+    margin-right: -8px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.container-tv-show{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 10px;
+    font-size: 30px;
+}
+.container-tv-show1{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    margin-right: 100px;
+    margin-top: -25px;
+}
+.container-paragraph1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    margin-top: -10px;
+}
+.container-paragraph2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    margin-top: -10px;
+}
+.container-paragraph3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    margin-top: -10px;
+}
+.Tv-show-image-container{
+    margin-left: -600px;
+}
+.Download-show-container-content{
+    margin-left: -300px;
+}
+.phone-img{
+    margin-left: 60px;
+}
+.download-img{
+    margin-top: 114px;
+    margin-left: -870px;
+}
+.kids-image-container{
+    margin-left: 270px;
+}
+.kids-container-content{
+    margin-right: 180px;
+}
+.main-question-container{
+    background-color: black;
+    border-bottom: 2px solid gray;
+    margin-left: -10px;
+    margin-right: -8px;
+    margin-top: -25px;
+}
+.main-question{
+    color: white;
+    padding-top: 40px;
+    margin-left: 610px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;   
+    font-size: 30px;
+}
+.main-question-sub-container-content{
+    margin-left: 550px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.question-sub-content{
+    background-color: gray;
+    height: 35px;
+    width: 500px;
+    padding-top: 15px;
+    padding-left: 20px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    margin-bottom: -10px;
+}
+.question-email-content{
+    color: white;
+    margin-top: 80px;
+    margin-left: 600px;
+    font-size: 1.6ch;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.question-email-content-btn{
+    margin-top: 20px;
+    margin-left: 400px;
+    margin-bottom: 50px;
+}
+.main-footer-container{
+    background-color: black;
+    margin-left: -10px;
+    margin-right: -8px;
+    margin-top: -16px;
+    color: gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.footer-question-number{
+    padding-top: 50px;
+}
+.footer-number{
+    margin-left: 300px;
+    margin-bottom: 20px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 20px;
+}
+.button{
+    height: 40px;
+    width: 100px;
+    background-color: black;
+    border: 1px solid gray;
+    color: white;
+    margin-left: 300px;
+}
+.footer-netflix-india{
+    display: flex;
+    margin-left: 303px;
+    margin-right: 400px;
+    margin-top: 20px;
+    font-size: 13px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media all and (max-width: 500px) {
+    .signup-btn-link{
+        margin-left: 250px;
+    }
+}

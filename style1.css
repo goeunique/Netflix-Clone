@@ -1,0 +1,101 @@
+.logo{
+    background-image: url("img1.png");
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-position: 30% 30%;
+    height: 950px;
+    margin-top: -30px;
+    margin-left: -10px;
+    margin-right: -8px;
+    
+}
+.logo-content {
+    padding-left: 90px;
+    padding-top: 30px;
+    margin-top: 30px;
+}
+
+form {
+    background-color: black;
+    margin-right: 1300px;
+    margin-left: 520px;
+    margin-top: -800px;
+    padding-left: 80px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    width: 500px;
+    height: 350px;
+    opacity: 0.7;
+    font-size: 20px;
+}
+
+input {
+    width: 400px;
+    height: 50px;
+}
+
+.signup {
+    color: white;
+    font-size: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 5px;
+    margin-top: -30px;
+    margin-bottom: 40px;
+}
+.profile {
+    background-color: red;
+    border-style: none;
+    color: white;
+    font-size: 20px;
+    margin-left: 5px;
+    margin-top: 10px;
+    border-radius: 3px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.sub-container{
+    color: gray;
+    display: flex;
+    justify-content: space-around ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: -80px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.main-footer-container{
+    background-color: black;
+    margin-left: -10px;
+    margin-right: -8px;
+    margin-top: 80px;
+    color: gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    opacity: 0.7;
+}
+.footer-number{
+    margin-left: 400px;
+    margin-bottom: 20px;
+    margin-top: -10px;
+}
+.footer-question-number{
+    padding-top: 40px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 20px;
+}
+.footer-faq{
+    margin-top: -5px;
+}
+.button{
+    height: 40px;
+    width: 100px;
+    background-color: black;
+    border: 1px solid gray;
+    color: white;
+    margin-left: 400px;
+    margin-top: -20px;
+    margin-bottom: 5px;
+}
